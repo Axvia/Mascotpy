@@ -1,0 +1,1 @@
+call pyinstaller --onefile --noconsole --add-data "paimon.gif;." -i "E:\Py\Paimon\paimon.ico" index.py
