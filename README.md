@@ -1,2 +1,3 @@
 # Desktop-Mascot
-Desktop-Mascot written in Python Language
+1. Paimon a Desktop-Mascot 
+2. Written in Python Language
